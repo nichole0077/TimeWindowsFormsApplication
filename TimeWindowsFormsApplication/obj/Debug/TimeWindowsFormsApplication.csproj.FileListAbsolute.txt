@@ -1,0 +1,9 @@
+c:\users\ncarlson\documents\visual studio 2013\Projects\TimeWindowsFormsApplication\TimeWindowsFormsApplication\bin\Debug\TimeWindowsFormsApplication.exe.config
+c:\users\ncarlson\documents\visual studio 2013\Projects\TimeWindowsFormsApplication\TimeWindowsFormsApplication\bin\Debug\TimeWindowsFormsApplication.exe
+c:\users\ncarlson\documents\visual studio 2013\Projects\TimeWindowsFormsApplication\TimeWindowsFormsApplication\bin\Debug\TimeWindowsFormsApplication.pdb
+c:\users\ncarlson\documents\visual studio 2013\Projects\TimeWindowsFormsApplication\TimeWindowsFormsApplication\obj\Debug\TimeWindowsFormsApplication.csprojResolveAssemblyReference.cache
+c:\users\ncarlson\documents\visual studio 2013\Projects\TimeWindowsFormsApplication\TimeWindowsFormsApplication\obj\Debug\TimeWindowsFormsApplication.Form1.resources
+c:\users\ncarlson\documents\visual studio 2013\Projects\TimeWindowsFormsApplication\TimeWindowsFormsApplication\obj\Debug\TimeWindowsFormsApplication.Properties.Resources.resources
+c:\users\ncarlson\documents\visual studio 2013\Projects\TimeWindowsFormsApplication\TimeWindowsFormsApplication\obj\Debug\TimeWindowsFormsApplication.csproj.GenerateResource.Cache
+c:\users\ncarlson\documents\visual studio 2013\Projects\TimeWindowsFormsApplication\TimeWindowsFormsApplication\obj\Debug\TimeWindowsFormsApplication.exe
+c:\users\ncarlson\documents\visual studio 2013\Projects\TimeWindowsFormsApplication\TimeWindowsFormsApplication\obj\Debug\TimeWindowsFormsApplication.pdb
